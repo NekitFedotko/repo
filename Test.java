@@ -7,6 +7,6 @@ public class Test {
             System.out.println("DAAAAAA");
         }
         System.out.println("Danila ntonov");
-        System.out.println("Nekit");
+        System.out.println("Nekitos");
     }
 }
