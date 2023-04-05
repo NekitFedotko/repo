@@ -6,5 +6,6 @@ public class Test {
             System.out.println(i);
         }
         System.out.println("Danila ntonov");
+        System.out.println("Nekit");
     }
 }
