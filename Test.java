@@ -5,6 +5,6 @@ public class Test {
         for (int i = 0; i < 14; i++) {
             System.out.println(i);
         }
-        System.out.println("Danila Antonov");
+        System.out.println("Danila ntonov");
     }
 }
